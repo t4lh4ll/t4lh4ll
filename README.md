@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/t4lh4ll" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t4lh4ll" height="30" width="40" /></a>
+<a href="https://instagram.com/t4lh4ll" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t4lh4ll" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
